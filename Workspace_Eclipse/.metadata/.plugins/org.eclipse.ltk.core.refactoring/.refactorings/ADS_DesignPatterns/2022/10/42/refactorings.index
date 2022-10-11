@@ -1,0 +1,5 @@
+1665446618517	Rename type 'RefactoryStrategyInterface'
+1665446822653	Delete element
+1665446866448	Extract interface 'Fretavel'
+1665447070141	Rename type 'serviceFreteDhl'
+1665447085273	Rename type 'serviceFreteSedex'
