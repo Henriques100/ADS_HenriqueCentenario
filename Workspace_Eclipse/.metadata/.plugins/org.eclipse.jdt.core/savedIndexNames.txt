@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 INDEX VERSION 1.131+C:\INATEL\Sexto_Periodo\S203\ADS_HenriqueCentenario\workspace_eclipse\.metadata\.plugins\org.eclipse.jdt.core
 2104660521.index
 1865797976.index
@@ -87,3 +88,8 @@ INDEX VERSION 1.131+C:\INATEL\Sexto_Periodo\S203\ADS_HenriqueCentenario\workspac
 662881109.index
 1301571785.index
 2593238877.index
+=======
+INDEX VERSION 1.131+C:\Users\aluno\ADS_HenriqueCentenario\Workspace_Eclipse\.metadata\.plugins\org.eclipse.jdt.core
+1031609959.index
+1865797976.index
+>>>>>>> 8a3526c26622fc2f070fbcdff95008fb8820a218
