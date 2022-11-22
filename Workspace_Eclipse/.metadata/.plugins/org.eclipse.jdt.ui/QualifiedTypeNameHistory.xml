@@ -1,4 +1,45 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
     <fullyQualifiedTypeName name="java.lang.IllegalStateException"/>
+    <fullyQualifiedTypeName name="java.util.Comparator"/>
+    <fullyQualifiedTypeName name="strategy_comparator.ComparadorPorId"/>
+    <fullyQualifiedTypeName name="Strategy.CalculadoraFrete"/>
+    <fullyQualifiedTypeName name="Strategy.ServiceFreteDhl"/>
+    <fullyQualifiedTypeName name="Strategy.Fretavel"/>
+    <fullyQualifiedTypeName name="java.time.LocalDate"/>
+    <fullyQualifiedTypeName name="javax.management.RuntimeErrorException"/>
+    <fullyQualifiedTypeName name="java.time.LocalDateTime"/>
+    <fullyQualifiedTypeName name="java.lang.RuntimeException"/>
+    <fullyQualifiedTypeName name="State.Artigo.GerenteDeSeguranca"/>
+    <fullyQualifiedTypeName name="State.Artigo.Artigo"/>
+    <fullyQualifiedTypeName name="State.Artigo.EstadoRevisando"/>
+    <fullyQualifiedTypeName name="State.Artigo.EstadoRascunho"/>
+    <fullyQualifiedTypeName name="templatemethod.realtorio.intro.ServicoDeRelatorio"/>
+    <fullyQualifiedTypeName name="templatemethod.relatorio.refatorado.GeradorRelatorioVendasMensais"/>
+    <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="Curso_Java.NumeroParOuImpar"/>
+    <fullyQualifiedTypeName name="templatemethod.relatorio.intro.GeradorRelatorioVendasMensais"/>
+    <fullyQualifiedTypeName name="templatemethod.relatorio.intro.GeradorRelatorioTemplate"/>
+    <fullyQualifiedTypeName name="templatemethod.relatorio.intro.ServicoDeRelatorio"/>
+    <fullyQualifiedTypeName name="templatemethod.relatorio.intro.GeradorDeRelatorioVendasAnuais"/>
+    <fullyQualifiedTypeName name="templatemethod.relatorio.refatorado.GeradorRelatorioTemplate"/>
+    <fullyQualifiedTypeName name="templatemethod.relatorio.refatorado.GeradorRelatorioVendasAnuais"/>
+    <fullyQualifiedTypeName name="org.springframework.ui.Model"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="org.springframework.stereotype.Service"/>
+    <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.RestController"/>
+    <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.RequestMapping"/>
+    <fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Autowired"/>
+    <fullyQualifiedTypeName name="br.inatel.labs.labads.padraosoa.model.service.BookService"/>
+    <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.GetMapping"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="br.inatel.labs.labads.padraosoa.model.entity.Book"/>
+    <fullyQualifiedTypeName name="javax.annotation.PostConstruct"/>
+    <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.PathVariable"/>
+    <fullyQualifiedTypeName name="org.springframework.web.server.ResponseStatusException"/>
+    <fullyQualifiedTypeName name="java.util.Random"/>
+    <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.PostMapping"/>
+    <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.RequestBody"/>
+    <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.ResponseStatus"/>
+    <fullyQualifiedTypeName name="org.springframework.http.HttpStatus"/>
 </qualifiedTypeNameHistroy>

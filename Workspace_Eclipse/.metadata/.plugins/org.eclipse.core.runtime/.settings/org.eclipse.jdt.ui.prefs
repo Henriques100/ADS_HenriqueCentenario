@@ -1,4 +1,4 @@
-content_assist_lru_history=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><history maxLHS\="100" maxRHS\="10"/>
+content_assist_lru_history=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><history maxLHS\="100" maxRHS\="10"><lhs name\="Strategy.CalculadoraFrete"><rhs name\="Strategy.CalculadoraFrete"/></lhs><lhs name\="Strategy.Fretavel"><rhs name\="Strategy.ServiceFreteDhl"/></lhs><lhs name\="State.Artigo.GerenteDeSeguranca"><rhs name\="State.Artigo.GerenteDeSeguranca"/></lhs><lhs name\="State.Artigo.Estado"><rhs name\="State.Artigo.EstadoRevisando"/><rhs name\="State.Artigo.EstadoRascunho"/></lhs><lhs name\="templatemethod.realtorio.intro.ServicoDeRelatorio"><rhs name\="templatemethod.realtorio.intro.ServicoDeRelatorio"/></lhs><lhs name\="templatemethod.relatorio.refatorado.GeradorRelatorioTemplate"><rhs name\="templatemethod.relatorio.refatorado.GeradorRelatorioVendasMensais"/><rhs name\="templatemethod.relatorio.refatorado.GeradorRelatorioVendasAnuais"/></lhs><lhs name\="templatemethod.relatorio.intro.GeradorDeRelatorioVendasAnuais"><rhs name\="templatemethod.relatorio.intro.GeradorDeRelatorioVendasAnuais"/></lhs><lhs name\="templatemethod.relatorio.intro.GeradorRelatorioTemplate"><rhs name\="templatemethod.relatorio.intro.GeradorDeRelatorioVendasAnuais"/></lhs><lhs name\="java.lang.Enum"><rhs name\="org.springframework.http.HttpStatus"/></lhs><lhs name\="java.lang.constant.Constable"><rhs name\="org.springframework.http.HttpStatus"/></lhs></history>
 content_assist_number_of_computers=12
 content_assist_proposals_background=255,255,255
 content_assist_proposals_foreground=0,0,0
@@ -6,6 +6,8 @@ eclipse.preferences.version=1
 hoverModifierMasks=org.eclipse.jdt.ui.BestMatchHover;0;org.eclipse.jdt.internal.debug.ui.JavaDebugHover;0;org.eclipse.jdt.ui.ProblemHover;0;org.eclipse.jdt.ui.NLSStringHover;327680;org.eclipse.jdt.ui.JavadocHover;393216;org.eclipse.jdt.ui.AnnotationHover;0;org.eclipse.jdt.ui.JavaSourceHover;131072;
 hoverModifiers=org.eclipse.jdt.ui.BestMatchHover;0;org.eclipse.jdt.internal.debug.ui.JavaDebugHover;\!0;org.eclipse.jdt.ui.ProblemHover;\!0;org.eclipse.jdt.ui.NLSStringHover;Ctrl+Alt;org.eclipse.jdt.ui.JavadocHover;Ctrl+Shift;org.eclipse.jdt.ui.AnnotationHover;\!0;org.eclipse.jdt.ui.JavaSourceHover;Shift;
 java_bracket_bold=true
+org.eclipse.jdt.internal.ui.navigator.layout=2
+org.eclipse.jdt.internal.ui.navigator.librariesnode=true
 org.eclipse.jdt.ui.formatterprofiles.version=22
 semanticHighlighting.annotation.color=255,0,0
 spelling_ignore_ampersand_in_properties=true

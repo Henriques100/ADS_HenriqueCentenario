@@ -21,4 +21,18 @@ class PizzaBuilderTest {
       assertTrue( pizza.getFlagPepperoni() );
 	}
 
+	void deveInvalidarPizzaSemIngrediente()
+	{
+		try
+		{
+			Pizza pizza = new PizzaBuilder()
+			      .setSize(3)
+			      .getPizza();
+			fail("Devia ter lançado exception");
+		}
+		catch(IllegalStateException e)
+		{
+			e.printStackTrace();
+		}
+	}
 }
