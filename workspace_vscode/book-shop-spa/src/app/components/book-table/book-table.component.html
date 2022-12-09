@@ -1,0 +1,33 @@
+<h1>Tabela de livros</h1>
+
+<table>
+  <thead>
+    <tr>
+      <td>ID</td>
+      <td>Title</td>
+      <td>Category</td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>Livro 1</td>
+      <td>Categoria x</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>Livro 2</td>
+      <td>Categoria y</td>
+    </tr>
+  </tbody>
+</table>
+
+<tbody>
+  <ng-container *ngFor="let b of books">
+   <tr>
+    <td> {{b.id}}</td>
+    <td> {{b.title}} </td>
+    <td> {{b.category}}</td>
+   </tr>
+  </ng-container>
+</tbody>
